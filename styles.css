@@ -1,4 +1,4 @@
-/* #welcome{
+#welcome{
     background-image: url(/images/h_img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -12,4 +12,4 @@ padding-bottom: 5rem;
 }
 .mouse{
 text-align: center;
-} */
+}
