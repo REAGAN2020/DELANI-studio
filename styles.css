@@ -1,4 +1,4 @@
-/* #welcome{
+#welcome{
     background-image: url(./images/h_img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -62,4 +62,4 @@ background-color: transparent;
 }
 #design,#dev,#product {
     display: none;
-} */
+}
