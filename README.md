@@ -18,7 +18,7 @@ Delani studio is a basic website project for displaying the kind of work the stu
 |------------------------------------------------|--------------------------------|-------------------------------------|
 | User required to enters invalid name and email in the form | click on photo         | name and email invalid              |
 | User required to enters valid mail and email in the form   | email: example@gmail.com name: Dan | name and email valid                |
-| User required to enters text in the message text area      |  Hi Charles form submitted           | Thank you for submitting your form. |
+| User required to enters text in the message text area      |  Hi Reagan form submitted           | Thank you for submitting your form. |
 
 
 ## Demo
