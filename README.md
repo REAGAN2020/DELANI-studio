@@ -23,7 +23,7 @@ Delani studio is a basic website project for displaying the kind of work the stu
 
 ## Demo
 
-Here is a working live demo : 
+Here is a working live demo : https://reagan2020.github.io/DELANI-studio/
 
 ### Development
 
