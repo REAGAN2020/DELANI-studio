@@ -1,15 +1,65 @@
-#welcome{
-    background-image: url(/images/h_img.jpg);
+/* #welcome{
+    background-image: url(./images/h_img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    padding: 10rem;
+    margin-bottom: 40px;
 }
 .logo{
 text-align: center;
 padding-bottom: 5rem;
 }
-.text-center{
-    color: white;
-}
+
 .mouse{
 text-align: center;
 }
+#services{
+    background-image: url("./images/s_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10rem;
+    margin-bottom:40px;
+    color: white;
+}
+#what-we-do h1{
+    text-align: center;
+}
+#what-we-do{
+    margin: 50px;
+    color: black;
+}
+.container h1{
+    text-align: center;
+}
+ #work4{
+    position: relative;
+} 
+#mouse-hover1{
+    position: absolute;
+    display: none;
+}
+ #work3 {
+    position: relative;
+}
+.mouse-hover2 {
+    position: absolute;
+    display: none;
+}
+#contact-us{
+    background-image: url(./images/c_image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 40px;
+}
+
+.required{
+background-color: transparent;
+}
+#mc_embed_signup {
+    background-color: transparent;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+}
+#design,#dev,#product {
+    display: none;
+} */
